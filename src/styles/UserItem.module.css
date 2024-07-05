@@ -1,0 +1,12 @@
+.userItem {
+    padding: 10px;
+    border: 1px solid #ccc;
+    margin-bottom: 10px;
+  }
+
+  .userList {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
